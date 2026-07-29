@@ -1,9 +1,12 @@
 {
   "app_title": "RSB VITAL M1",
-  "version_name": "v3.2.0",
+  "version_name": "v3.2.86",
   "whats_new": [
-    "Optimized ambient mode color contrast and battery efficiency.",
-    "Added steps goal progress ring customizability.",
-    "Improved Wear OS real-time Bluetooth status indicator."
+    "Introducing Plus Mode: The perfect balance between minimal and detailed layouts, tracking weather, heart rate, and steps cleanly.",
+    "Ground-Up Redesign: Rearranged all elements from scratch to optimize visual balance, spacing, and readability on round displays.",
+    "Performance Optimization: Streamlined core assets to reduce CPU draw, save processing power, and extend device battery life.",
+    "RSB - VITAL Series: Elite. Efficient. Minimalistic. Optimized for Wear OS.",
+    "New Companion App: Launched a brand new companion app with updated UI, view real-time update changelogs, and seamlessly install watch faces to your Wear OS device."
   ]
 }
+
