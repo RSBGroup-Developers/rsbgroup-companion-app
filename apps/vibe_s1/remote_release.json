@@ -1,0 +1,10 @@
+{
+  "app_title": "RSB VIBE S1",
+  "version_name": "v2.0.08 (What's New)",
+  "whats_new": [
+    "Customisation Settings: Updated customisation settings and fixed incorrect assignments or behaviours.",
+    "Refined Backgrounds: Replaced two similar backgrounds with two high-contrast options for better visibility.",
+    "Typography & Alignment: Implemented comprehensive font and alignment fixes across all layouts for a sharper look.",
+    "Progress Bar Updates: Fine-tuned progress bar behaviours for smoother tracking and improved on-wrist legibility."
+  ]
+}
