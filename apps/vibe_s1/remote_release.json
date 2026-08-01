@@ -2,10 +2,10 @@
   "app_title": "RSB VIBE S1",
   "version_name": "v2.0.08 (Companion App v3.2.18)",
   "whats_new": [
-    "Brand New Companion App: Rebuilt v3.2.18 for Android 17 with Neumorphic UI watch face previews.",
-    "Smart UI Scroll: Release notes now scroll inside their container instead of pushing elements up.",
-    "Face Optimisations: Updated customisation settings, added high-contrast backgrounds, and improved layout alignments.",
-    "Progress Bar Updates: Fine-tuned tracking behaviours and improved on-wrist legibility.",
+    "Brand New Companion App: Rebuilt v3.2.18 for Android 17 with Neumorphic UI face previews.",
+    "Smart UI Scroll: Changelog scrolls inside container instead of pushing elements up.",
+    "Face Optimisations: Updated customisation, added high-contrast backgrounds & layout fixes.",
+    "Progress Bar Updates: Fine-tuned tracking and improved legibility.",
     "RSB - VIBE Series: Vibrant. Bold. Premium. Optimized for Wear OS."
   ]
 }
