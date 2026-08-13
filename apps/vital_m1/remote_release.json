@@ -1,11 +1,9 @@
 {
   "app_title": "RSB VITAL M1",
-  "version_name": "v3.2.86 (Companion App v3.2.18)",
+  "version_name": "v3.2.86 (Companion App v3.3.48)",
   "whats_new": [
-    "Brand New Companion App: Rebuilt v3.2.18 for Android 17 with Neumorphic UI watch face previews.",
-    "Smart UI Scroll: Release notes now scroll inside their container instead of pushing elements up.",
-    "Live Logs & Installs: View live changelogs and install directly to Wear OS.",
-    "Other Fixes: General stability tweaks.",
-    "RSB - VITAL Series: Elite. Efficient. Minimalistic. Optimized for Wear OS."
+    "Phone Battery Complication: Added a new battery tracking complication with preference settings to easily manage the transmit style, toggle the mobile icon, and show or hide the percentage symbol.",
+    "Real-Time Setting Sync: Enabled seamless, bidirectional live synchronization between the Wear module and your phone.",
+    "Other Fixes: Under-the-hood bug resolutions and general performance optimizations."
   ]
 }
