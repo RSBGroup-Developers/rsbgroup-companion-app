@@ -1,8 +1,7 @@
 {
   "app_title": "RSB VIBE S1",
-  "version_name": "3.3.48",
+  "version_name": "2.0.08 (Companion App v3.3.48)",
   "whats_new": [
-    "RSB VIBE S1 — v2.0.08 (Companion App v3.3.48)",
     "Phone Battery Complication: Added a new battery tracking complication with preference settings to easily manage the transmit style, toggle the mobile icon, and show or hide the percentage symbol.",
     "Real-Time Setting Sync: Enabled seamless, bidirectional live synchronization between the Wear module and your phone.",
     "Other Fixes: Under-the-hood bug resolutions and general performance optimizations."
