@@ -1,10 +1,8 @@
 {
   "app_title": "RSB VITAL M1",
-  "version_name": "RSB VITAL M1 v3.2.86 (Companion v3.3.48)",
+  "version_name": "3.2.92 (Companion App v3.2.18)",
   "whats_new": [
-    "Universal Battery Complication: Track phone battery on ANY compatible watch face. Customize transmit styles, icon toggles, and % visibility.",
-    "Live Sync: Seamless, bidirectional setting sync between watch and phone.",
-    "New Wear Module: Installs a new wear module on your watch to communicate with the companion app.",
-    "Future Update: A standalone app is in active development to allow independent phone/Wear app installation at discretion."
+    "Layout and other fixes.",
+    "RSB - VITAL Series: Elite Minimalistic Watch Face Optimized for Wear OS"
   ]
 }
