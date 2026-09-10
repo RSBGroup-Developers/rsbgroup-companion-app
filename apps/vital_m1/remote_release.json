@@ -1,8 +1,11 @@
 {
   "app_title": "RSB VITAL M1",
-  "version_name": "3.2.92 (Companion App v3.2.18)",
+  "version_name": "3.2.92 (Companion App v3.3.28)",
   "whats_new": [
+    "Watch Face: v3.2.92",
     "Layout and other fixes.",
+    "Companion App: v3.3.28",
+    "R8 Compatibility: Memory and performance improvements.",
     "RSB - VITAL Series: Elite Minimalistic Watch Face Optimized for Wear OS"
   ]
 }
